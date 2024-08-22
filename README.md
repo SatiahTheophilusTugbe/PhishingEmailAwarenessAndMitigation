@@ -31,7 +31,7 @@ Phishing awareness is crucial in today's digital landscape. The Mastercard simul
 
 # The Anatomy of a well crafted Phishing Email as highlighted by Master Card:
 
-![4](https://github.com/user-attachments/assets/51e733df-683c-428b-a940-e28cfa9a8980)
+![3](https://github.com/user-attachments/assets/febc5c8a-a478-475d-8d4b-c938b05ff74e)
 
 # Practical Steps for Phishing Prevention
 Here are some of the best practices I learned:
