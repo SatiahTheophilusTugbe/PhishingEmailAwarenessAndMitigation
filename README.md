@@ -60,6 +60,17 @@ Implement continuous training and phishing email simulation across the organizat
 
 ![t4](https://github.com/user-attachments/assets/3fd1ddcb-4eaa-44ff-98f3-07478cc7855c)
 
+# Skills Learned
+- Communication
+- Cybersecurity
+- Data Analysis
+- Data Presentation
+- Design Thinking
+- Problem Solving
+- Security Awareness Training
+- Security Strategy
+- Technical Security Awareness
+
 # Conclusion
 Phishing is a significant threat that requires vigilance and knowledge to counteract effectively. My experience with the Mastercard Cybersecurity Virtual Experience on Forage has equipped me with the tools and understanding necessary to recognize and respond to phishing attempts. I hope that by sharing this knowledge, I can help others protect themselves and their organizations from these pervasive threats.
 
