@@ -27,25 +27,40 @@ One of the key lessons from the Mastercard experience was how to recognize phish
 
 ![5](https://github.com/user-attachments/assets/5b5431b7-7237-459f-b99b-04fcc60cc343)
 
-
-
 Phishing awareness is crucial in today's digital landscape. The Mastercard simulation highlighted that phishing remains one of the most prevalent and effective methods for attackers to gain unauthorized access to sensitive information. This is because it exploits the human element, which is often the weakest link in cybersecurity.
 
-Practical Steps for Phishing Prevention
+# The Anatomy of a well crafted Phishing Email as highlighted by Master Card:
+
+![4](https://github.com/user-attachments/assets/51e733df-683c-428b-a940-e28cfa9a8980)
+
+# Practical Steps for Phishing Prevention
 Here are some of the best practices I learned:
 
-Always Verify the Sender: If you receive an email that seems suspicious, verify the sender's identity before taking any action. Contact the organization directly using a known and trusted method.
-Think Before You Click: Avoid clicking on links or downloading attachments from unexpected emails, even if they appear to come from a legitimate source.
-Use Strong, Unique Passwords: Implement strong, unique passwords for each of your accounts and consider using a password manager.
-Enable Multi-Factor Authentication (MFA): MFA adds an additional layer of security by requiring more than just a password to access your accounts.
-Responding to Phishing Attacks
+- Always Verify the Sender: If you receive an email that seems suspicious, verify the sender's identity before taking any action. Contact the organization directly using a known and trusted method.
+- Think Before You Click: Avoid clicking on links or downloading attachments from unexpected emails, even if they appear to come from a legitimate source.
+- Use Strong, Unique Passwords: Implement strong, unique passwords for each of your accounts and consider using a password manager.
+- Enable Multi-Factor Authentication (MFA): MFA adds an additional layer of security by requiring more than just a password to access your accounts.
+
+# Responding to Phishing Attacks
 Despite your best efforts, there may be times when you fall victim to a phishing attack. Here’s what I learned about how to respond:
 
-Disconnect Immediately: If you suspect you've clicked on a phishing link or provided sensitive information, disconnect from the internet to prevent further damage.
-Change Your Passwords: Change the passwords of any accounts that may have been compromised.
-Report the Incident: Report the phishing attempt to your IT department or the appropriate authorities. This can help others avoid the same trap.
-Monitor for Unusual Activity: Keep an eye on your accounts for any signs of unauthorized activity, such as unfamiliar transactions or login attempts.
-Conclusion
+- Disconnect Immediately: If you suspect you've clicked on a phishing link or provided sensitive information, disconnect from the internet to prevent further damage.
+- Change Your Passwords: Change the passwords of any accounts that may have been compromised.
+- Report the Incident: Report the phishing attempt to your IT department or the appropriate authorities. This can help others avoid the same trap.
+- Monitor for Unusual Activity: Keep an eye on your accounts for any signs of unauthorized activity, such as unfamiliar transactions or login attempts.
+
+# Every day is CyberSecurity day
+Implement continuous training and phishing email simulation across the organization:
+
+![t1](https://github.com/user-attachments/assets/d6a9edc9-d0a2-418d-a1ad-07206fc8299d)
+
+![t2](https://github.com/user-attachments/assets/9b4aee50-7c56-4de1-9aba-6bcd27d5aa84)
+
+![t3](https://github.com/user-attachments/assets/05bc8aea-fe3a-4229-a76c-74482e6996ea)
+
+![t4](https://github.com/user-attachments/assets/3fd1ddcb-4eaa-44ff-98f3-07478cc7855c)
+
+# Conclusion
 Phishing is a significant threat that requires vigilance and knowledge to counteract effectively. My experience with the Mastercard Cybersecurity Virtual Experience on Forage has equipped me with the tools and understanding necessary to recognize and respond to phishing attempts. I hope that by sharing this knowledge, I can help others protect themselves and their organizations from these pervasive threats.
 
 Contributions
