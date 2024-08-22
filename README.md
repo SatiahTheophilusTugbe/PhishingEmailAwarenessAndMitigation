@@ -21,12 +21,12 @@ One of the key lessons from the Mastercard experience was how to recognize phish
 - Urgent or Fearful Language: Phishing emails often use urgent language, such as "Your account will be suspended unless you act now!" to pressure the recipient into taking quick action without considering the risks.
 - Unexpected Attachments or Links: Phishing emails might include unexpected attachments or hyperlinks that lead to malicious sites. Always be wary of clicking links in unsolicited emails.
 - Generic Greetings: Unlike legitimate emails, phishing attempts often use generic greetings like "Dear User" instead of addressing the recipient by name.
-- The Importance of Phishing Awareness
 
 # A Phishing Email I Created:
 
 ![5](https://github.com/user-attachments/assets/5b5431b7-7237-459f-b99b-04fcc60cc343)
 
+# The Importance of Phishing Awareness
 Phishing awareness is crucial in today's digital landscape. The Mastercard simulation highlighted that phishing remains one of the most prevalent and effective methods for attackers to gain unauthorized access to sensitive information. This is because it exploits the human element, which is often the weakest link in cybersecurity.
 
 # The Anatomy of a well crafted Phishing Email as highlighted by Master Card:
